@@ -1,0 +1,36 @@
+html {
+    background-color: blueviolet;
+    color: white;
+    font-family:  "Playwrite NO", cursive; 
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    min-height: 97vh;
+    padding: 1em;
+}
+
+b{
+    font-weight: 900;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: brown;
+    color: white;
+    padding: 1em;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+a:hover {
+    color: fuchsia;
+    font-size: 2em;
+}
+
+#im_special:hover {
+    color: white;
+    cursor: pointer;
+}
